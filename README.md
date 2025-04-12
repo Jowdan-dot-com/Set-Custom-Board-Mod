@@ -1,3 +1,1 @@
-Home of the ChromeOS Firmware Utility script and Kodi E-Z Setup script.
-
-For home info, please visit https://mrchromebox.tech
+Please don't kill me mrchromebox, I'm just trying to install a firmware for a different board, so I can say I switched my Snappy Board Chromebook into a Octopus one.
