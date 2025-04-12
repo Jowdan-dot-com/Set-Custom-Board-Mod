@@ -635,7 +635,7 @@ else
 fi
 
 diagnostic_report_set _hwid "$_hwid"
-diagnostic_report_set boardName "$boardName"
+diagnostic_report_set boardName "PLS"
 
 case "${_hwid}" in
     AKALI*)                 _x='KBL|Acer Chromebook 13 / Spin 13' ; device="nami";;
